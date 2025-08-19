@@ -1,0 +1,13 @@
+{
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.quickSuggestions": { "other": true, "comments": false, "strings": true },
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.showWords": true,
+  "editor.suggest.showFunctions": true,
+  "editor.suggest.showSnippets": true,
+  // Copilot (if installed) - enable inline suggestions
+  "github.copilot.inlineSuggest.enable": true,
+  "github.copilot.enable": {
+    "*": true
+  }
+}
